@@ -5,6 +5,16 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.card1{
+  visibility: hidden;
+}
+.card2{
+  visibility: hidden;
+}
+.card3{
+  visibility: hidden;
+}
+
 body{
   display: flex;
   justify-content: center;
